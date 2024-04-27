@@ -1,0 +1,2 @@
+# dakia
+Mail automation
